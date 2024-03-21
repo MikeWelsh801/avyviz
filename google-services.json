@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "196493451574",
+    "project_id": "avy-viz",
+    "storage_bucket": "avy-viz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196493451574:android:a655d419899061c81d1397",
+        "android_client_info": {
+          "package_name": "com.anonymous.AvyViz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196493451574-98es59tjlmqb2tnm91f7a61dku3oerbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196493451574-98es59tjlmqb2tnm91f7a61dku3oerbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196493451574-fvicg88uc6fpvvpstj48sso2qcjeohvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.avyvizteam.AvyViz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
